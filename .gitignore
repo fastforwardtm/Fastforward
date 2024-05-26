@@ -1,4 +1,2 @@
 node_modules
 .env
-git add .
-git commit -m "Initial commit"
